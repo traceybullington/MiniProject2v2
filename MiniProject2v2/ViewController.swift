@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         
     }
     @IBAction func yogurtButtonTapped(_ sender: UIButton) {
-        textOutput.text = "A Quick And Yummy Choice! 🥣"
+        textOutput.text = "A Quick Choice! 🥣"
         
     }
     
